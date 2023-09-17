@@ -16,6 +16,7 @@
 		3D4A0FFE2AB5E7F5006D9E10 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A0FFD2AB5E7F5006D9E10 /* OnboardingView.swift */; };
 		3D4A10012AB5EAF1006D9E10 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A10002AB5EAF1006D9E10 /* FruitModel.swift */; };
 		3D4A10042AB5EBD5006D9E10 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A10032AB5EBD5006D9E10 /* FruitData.swift */; };
+		3D4A10062AB6DBBF006D9E10 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A10052AB6DBBF006D9E10 /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		3D4A0FFD2AB5E7F5006D9E10 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		3D4A10002AB5EAF1006D9E10 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		3D4A10032AB5EBD5006D9E10 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		3D4A10052AB6DBBF006D9E10 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			children = (
 				3D4A0FF92AB5C54E006D9E10 /* FruitCardView.swift */,
 				3D4A0FFB2AB5E526006D9E10 /* StartButtonView.swift */,
+				3D4A10052AB6DBBF006D9E10 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				3D4A10042AB5EBD5006D9E10 /* FruitData.swift in Sources */,
 				3D4A0FFA2AB5C54E006D9E10 /* FruitCardView.swift in Sources */,
+				3D4A10062AB6DBBF006D9E10 /* FruitRowView.swift in Sources */,
 				3D4A0FFC2AB5E526006D9E10 /* StartButtonView.swift in Sources */,
 				3D4A0FEB2AB5BFBD006D9E10 /* ContentView.swift in Sources */,
 				3D4A0FFE2AB5E7F5006D9E10 /* OnboardingView.swift in Sources */,
